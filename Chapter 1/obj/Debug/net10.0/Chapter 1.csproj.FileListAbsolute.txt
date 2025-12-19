@@ -1,0 +1,14 @@
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\Chapter 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\Chapter 1.AssemblyInfoInputs.cache
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\Chapter 1.AssemblyInfo.cs
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\Chapter 1.csproj.CoreCompileInputs.cache
+E:\New folder\Repos\Head First OOA&D\Chapter 1\bin\Debug\net10.0\Chapter 1.exe
+E:\New folder\Repos\Head First OOA&D\Chapter 1\bin\Debug\net10.0\Chapter 1.deps.json
+E:\New folder\Repos\Head First OOA&D\Chapter 1\bin\Debug\net10.0\Chapter 1.runtimeconfig.json
+E:\New folder\Repos\Head First OOA&D\Chapter 1\bin\Debug\net10.0\Chapter 1.dll
+E:\New folder\Repos\Head First OOA&D\Chapter 1\bin\Debug\net10.0\Chapter 1.pdb
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\Chapter 1.dll
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\refint\Chapter 1.dll
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\Chapter 1.pdb
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\Chapter 1.genruntimeconfig.cache
+E:\New folder\Repos\Head First OOA&D\Chapter 1\obj\Debug\net10.0\ref\Chapter 1.dll
