@@ -40,7 +40,7 @@ This project is part of my personal practice while studying **Head First OOA&D**
 ## Reference
 
 - Book: **Head First Object-Oriented Analysis & Design**
-- Chapter: **Chapter 2 – Give them what they want**
+- Chapter: **Chapter 2 – Give them what they want, Gathering Requirement**
 
 ---
 
