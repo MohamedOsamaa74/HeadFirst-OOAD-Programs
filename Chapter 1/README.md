@@ -39,7 +39,7 @@ This project is part of my personal practice while studying **Head First OOA&D**
 ## Reference
 
 - Book: **Head First Object-Oriented Analysis & Design**
-- Chapter: **Chapter 1 – Well-Designed Apps Rock**
+- Chapter: **Chapter 1 – Great Software Begims Here, Well-Designed Apps Rock**
 
 ---
 
